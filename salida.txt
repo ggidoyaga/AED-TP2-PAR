@@ -1,0 +1,6 @@
+Ingrese un numero.
+16
+El numero ingresado es par.
+
+Process returned 0 (0x0)   execution time : 5.720 s
+Press any key to continue.
